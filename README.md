@@ -1,0 +1,3 @@
+# CTclassfaction
+透過Luna資料集訓練肺部腫瘤檢測
+資料可自行從Luna下載比賽用資料
