@@ -31,7 +31,7 @@ The repository consists of the following key folders and files:
 
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/ct-classification.git
+    git clone https://github.com/Tunahaha/CTclassfaction.git
     ```
 
 3. Switch to the directory of the repository you just cloned:
